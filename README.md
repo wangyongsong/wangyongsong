@@ -14,7 +14,7 @@ I love ML and trying to learn more about Full Stack Web Development.
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+#### ⭐️ How about some stats ?
 
 
 ![WangYongSong GitHub Stats](https://github-readme-stats.vercel.app/api?username=wangyongsong&show_icons=true)
